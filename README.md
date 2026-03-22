@@ -1,9 +1,10 @@
 # Playground
 
-Playgound is a collection of differnt fun and utility projects for individual,  couples, and families. 
+Playgound is a collection of differentfun and utility projects for individual,  couples, and families. 
+It mainly comes from my personal need to learn and build something fun and useful for my family, and i host them in my personal [website](https://logischermix.com)
 
 It currently includes the following apps:
-1. Family Activity Planer (with Spin wheel)
+1. Family Activity Planer (with Spinning Wheel)
 
 
 
@@ -52,3 +53,6 @@ npm run test:unit
 
 
 # Release Notes
+
+## v0.1
+WIP
