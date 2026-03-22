@@ -1,6 +1,13 @@
-# playground
+# Playground
 
-This template should help get you started developing with Vue 3 in Vite.
+Playgound is a collection of differnt fun and utility projects for individual,  couples, and families. 
+
+It currently includes the following apps:
+1. Family Activity Planer (with Spin wheel)
+
+
+
+# Setup and Run
 
 ## Recommended IDE Setup
 
@@ -42,3 +49,6 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+
+# Release Notes

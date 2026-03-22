@@ -1,11 +1,14 @@
-<script setup></script>
+<script setup>
+import TodoList from './components/TodoList.vue'
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div id="app">
+    <h1>Travel Bucket List</h1>
+    <p>Welcome to our travel bucket list! Here, we can add new activities and places we wish to explore together. Let's make our travel dreams a reality!</p>
+    <TodoList />
+  </div>
 </template>
 
 <style scoped></style>
